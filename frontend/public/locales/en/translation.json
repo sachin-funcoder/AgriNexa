@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "AgriNexa",
+    "tagline": "The Next Generation of Agricultural Intelligence",
+    "version": "1.0.0"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "priceTrends": "Price Intelligence",
+    "harvestSplit": "Harvest Split",
+    "calculator": "Profit Calculator",
+    "mandiCompare": "Mandi Compare",
+    "community": "Community & Transparency"
+  },
+  "dashboard": {
+    "welcome": "Namaskara, Farmer!",
+    "subtitle": "Your AI-assisted agricultural market intelligence command center",
+    "kpi_modal_price": "Today's Modal Price",
+    "kpi_price_trend": "7-Day Momentum",
+    "kpi_recommended_action": "Harvest Advisory",
+    "kpi_active_mandis": "Mandis Monitored",
+    "quick_crop_selector": "Select Crop"
+  },
+  "common": {
+    "loading": "Loading data...",
+    "error": "An error occurred",
+    "refresh": "Refresh",
+    "currency_symbol": "₹",
+    "per_quintal": "/ quintal",
+    "tonnes": "tonnes",
+    "km": "km",
+    "language": "Language",
+    "english": "English",
+    "kannada": "ಕನ್ನಡ"
+  }
+}

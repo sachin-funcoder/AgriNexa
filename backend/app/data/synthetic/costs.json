@@ -1,0 +1,82 @@
+{
+  "distance_matrix_km": {
+    "mandi_bengaluru": {
+      "mandi_kolar": 70.0,
+      "mandi_mysuru": 145.0,
+      "mandi_mandya": 100.0,
+      "mandi_hubballi": 410.0,
+      "mandi_belagavi": 505.0,
+      "mandi_davanagere": 260.0,
+      "mandi_hassan": 180.0
+    },
+    "mandi_kolar": {
+      "mandi_bengaluru": 70.0,
+      "mandi_mysuru": 215.0,
+      "mandi_mandya": 170.0,
+      "mandi_hubballi": 465.0,
+      "mandi_belagavi": 560.0,
+      "mandi_davanagere": 320.0,
+      "mandi_hassan": 245.0
+    },
+    "mandi_mysuru": {
+      "mandi_bengaluru": 145.0,
+      "mandi_kolar": 215.0,
+      "mandi_mandya": 45.0,
+      "mandi_hubballi": 490.0,
+      "mandi_belagavi": 585.0,
+      "mandi_davanagere": 350.0,
+      "mandi_hassan": 120.0
+    },
+    "mandi_mandya": {
+      "mandi_bengaluru": 100.0,
+      "mandi_kolar": 170.0,
+      "mandi_mysuru": 45.0,
+      "mandi_hubballi": 450.0,
+      "mandi_belagavi": 545.0,
+      "mandi_davanagere": 310.0,
+      "mandi_hassan": 105.0
+    },
+    "mandi_hubballi": {
+      "mandi_bengaluru": 410.0,
+      "mandi_kolar": 465.0,
+      "mandi_mysuru": 490.0,
+      "mandi_mandya": 450.0,
+      "mandi_belagavi": 95.0,
+      "mandi_davanagere": 150.0,
+      "mandi_hassan": 340.0
+    },
+    "mandi_belagavi": {
+      "mandi_bengaluru": 505.0,
+      "mandi_kolar": 560.0,
+      "mandi_mysuru": 585.0,
+      "mandi_mandya": 545.0,
+      "mandi_hubballi": 95.0,
+      "mandi_davanagere": 240.0,
+      "mandi_hassan": 430.0
+    },
+    "mandi_davanagere": {
+      "mandi_bengaluru": 260.0,
+      "mandi_kolar": 320.0,
+      "mandi_mysuru": 350.0,
+      "mandi_mandya": 310.0,
+      "mandi_hubballi": 150.0,
+      "mandi_belagavi": 240.0,
+      "mandi_hassan": 190.0
+    },
+    "mandi_hassan": {
+      "mandi_bengaluru": 180.0,
+      "mandi_kolar": 245.0,
+      "mandi_mysuru": 120.0,
+      "mandi_mandya": 105.0,
+      "mandi_hubballi": 340.0,
+      "mandi_belagavi": 430.0,
+      "mandi_davanagere": 190.0
+    }
+  },
+  "freight_rate_per_km_qtl": 2.25,
+  "storage_ambient_inr_per_qtl_day": 3.5,
+  "storage_cold_inr_per_qtl_day": 8.0,
+  "loading_unloading_inr_per_qtl": 10.0,
+  "is_demo": true,
+  "data_source": "synthetic"
+}

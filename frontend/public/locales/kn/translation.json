@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "ಅಗ್ರಿ-ನೆಕ್ಸಾ (AgriNexa)",
+    "tagline": "ಕೃಷಿ ಮಾರುಕಟ್ಟೆ ಬುದ್ಧಿಮತ್ತೆಯ ಮುಂದಿನ ಪೀಳಿಗೆ",
+    "version": "1.0.0"
+  },
+  "nav": {
+    "dashboard": "ಮುಖಪುಟ (Dashboard)",
+    "priceTrends": "ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು",
+    "harvestSplit": "ಬೆಳೆ ಮಾರಾಟ ಹಂಚಿಕೆ",
+    "calculator": "ಲಾಭ ಮತ್ತು ವೆಚ್ಚ ಲೆಕ್ಕಾಚಾರ",
+    "mandiCompare": "ಮಾರುಕಟ್ಟೆಗಳ ಹೋಲಿಕೆ",
+    "community": "ರೈತ ಸಮುದಾಯ ಮತ್ತು ಪಾರದರ್ಶಕತೆ"
+  },
+  "dashboard": {
+    "welcome": "ನಮಸ್ಕಾರ, ರೈತ ಬಾಂಧವರೇ!",
+    "subtitle": "ನಿಮ್ಮ ಬೆಳೆ ಮತ್ತು ಮಾರುಕಟ್ಟೆ ತೀರ್ಮಾನಗಳಿಗೆ AI ಮಾರ್ಗದರ್ಶಿ",
+    "kpi_modal_price": "ಇಂದಿನ ಸರಾಸರಿ ಬೆಲೆ",
+    "kpi_price_trend": "7 ದಿನಗಳ ಬೆಲೆ ವೇಗ",
+    "kpi_recommended_action": "ಮಾರಾಟ ಸಲಹೆ",
+    "kpi_active_mandis": "ಪರಿಶೀಲಿಸಲಾದ ಮಾರುಕಟ್ಟೆಗಳು",
+    "quick_crop_selector": "ಬೆಳೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "common": {
+    "loading": "ಮಾಹಿತಿ ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ದೋಷ ಸಂಭವಿಸಿದೆ",
+    "refresh": "ಮರುಹೊಂದಿಸಿ",
+    "currency_symbol": "₹",
+    "per_quintal": "/ ಕ್ವಿಂಟಾಲ್",
+    "tonnes": "ಟನ್",
+    "km": "ಕಿ.ಮೀ",
+    "language": "ಭಾಷೆ",
+    "english": "English",
+    "kannada": "ಕನ್ನಡ"
+  }
+}

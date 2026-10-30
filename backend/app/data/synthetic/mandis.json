@@ -1,0 +1,138 @@
+[
+  {
+    "mandi_id": "mandi_bengaluru",
+    "name": "Bengaluru (Yeshwanthpur APMC)",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "latitude": 13.0238,
+    "longitude": 77.5529,
+    "facilities": [
+      "Cold Storage",
+      "Electronic Weighing",
+      "Warehouse",
+      "Testing Lab"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 20.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_kolar",
+    "name": "Kolar APMC Market Yard",
+    "district": "Kolar",
+    "state": "Karnataka",
+    "latitude": 13.1367,
+    "longitude": 78.134,
+    "facilities": [
+      "Cold Storage",
+      "Auction Shed",
+      "Electronic Weighing"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 15.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_mysuru",
+    "name": "Mysuru (Bandipalya APMC)",
+    "district": "Mysuru",
+    "state": "Karnataka",
+    "latitude": 12.2778,
+    "longitude": 76.6806,
+    "facilities": [
+      "Auction Shed",
+      "Weighing Bridge",
+      "Storage Warehouse"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 14.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_mandya",
+    "name": "Mandya APMC Yard",
+    "district": "Mandya",
+    "state": "Karnataka",
+    "latitude": 12.5242,
+    "longitude": 76.8958,
+    "facilities": [
+      "Auction Shed",
+      "Farmer Rest House",
+      "Weighing Platform"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 12.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_hubballi",
+    "name": "Hubballi (Amargol APMC)",
+    "district": "Dharwad",
+    "state": "Karnataka",
+    "latitude": 15.3942,
+    "longitude": 75.1058,
+    "facilities": [
+      "Cold Storage",
+      "Bulk Grain Silos",
+      "Electronic Weighing"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 16.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_belagavi",
+    "name": "Belagavi APMC Yard",
+    "district": "Belagavi",
+    "state": "Karnataka",
+    "latitude": 15.8497,
+    "longitude": 74.4977,
+    "facilities": [
+      "Auction Shed",
+      "Vegetable Trading Platform"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 13.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_davanagere",
+    "name": "Davanagere APMC Yard",
+    "district": "Davanagere",
+    "state": "Karnataka",
+    "latitude": 14.4644,
+    "longitude": 75.9218,
+    "facilities": [
+      "Grain Storage",
+      "Electronic Weighing",
+      "Warehouse"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 14.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  },
+  {
+    "mandi_id": "mandi_hassan",
+    "name": "Hassan APMC Yard",
+    "district": "Hassan",
+    "state": "Karnataka",
+    "latitude": 13.0033,
+    "longitude": 76.1004,
+    "facilities": [
+      "Cold Storage",
+      "Potato Grading Centre",
+      "Electronic Weighing"
+    ],
+    "market_fee_percent": 1.5,
+    "handling_charge_per_qtl": 15.0,
+    "is_demo": true,
+    "data_source": "synthetic"
+  }
+]
