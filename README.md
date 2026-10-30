@@ -1,3 +1,4 @@
+
 # AgriNexa — The Next Generation of Agricultural Intelligence
 
 AgriNexa is an AI-powered agricultural intelligence platform designed to help farmers make smarter, data-driven decisions. The platform provides real-time mandi price intelligence, statistical AI price forecasting with explicit uncertainty bands, mixed-integer linear programming (PuLP) for harvest split optimization, net return financial calculators, geospatial mandi comparisons, and a community transparency forum for reporting unfair weighing and delayed payment practices.
@@ -72,3 +73,6 @@ npm install
 npm run dev
 ```
 Local Web App: `http://localhost:5173`
+
+# AgriNexa
+
