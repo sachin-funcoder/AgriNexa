@@ -56,23 +56,8 @@ AgriNexa/
 
 ## 🚀 Quickstart Guide
 
-### 1. Backend Setup
-```powershell
-cd backend
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8000
-```
-Swagger UI docs: `http://localhost:8000/docs`
-
-### 2. Frontend Setup
-```powershell
-cd frontend
-npm install
-npm run dev
-```
-Local Web App: `http://localhost:5173`
+### Application link
+Link: https://agri-nexa-app.vercel.app
 
 # AgriNexa
 
